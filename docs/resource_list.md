@@ -8,7 +8,7 @@ All API URLs start with `https://[mystorename.com]/api/v1/`, where `[mystorename
 | Name | Collections |
 | ---- | ----------- |
 | [addresses](docs/resources/addresses.md) |
-| [customers](docs/resources/customers.md) | addresses, reward\_points, custom\_fields |
+| [customers](resources/customers.md) | addresses, reward\_points, custom\_fields |
 | [customer_types](docs/resources/customer_types.md) | |
 | [customer_payment_methods](docs/resources/customer_payment_methods.md) | fields |
 | [profiles](docs/resources/profiles.md) | contacts |
